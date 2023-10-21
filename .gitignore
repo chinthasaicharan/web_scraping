@@ -1,0 +1,15 @@
+
+desidime/
+freekaamaal/
+indiafreestuff/
+desidime_coupons/
+freekaamaal_coupons/
+history/
+output/
+incomplete/
+indiafreestuff_coupons/
+.idea/
+.idea/misc.xml
+test.py
+__pycache__/reused.cpython-310.pyc
+__pycache__/desidime.cpython-310.pyc
