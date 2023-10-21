@@ -1,0 +1,20 @@
+name:
+    css: '#productTitle'
+    type: Text
+
+price:
+    css: '.a-price-whole'
+    type: Text
+
+short_description:
+    css: '#featurebullets_feature_div'
+    type: Text
+
+product_description:
+    css: '#productDescription'
+    type: Text
+
+original_price:
+    css: '#corePriceDisplay_desktop_feature_div > div.a-section.a-spacing-small.aok-align-center > span > span.a-size-small.a-color-secondary.aok-align-center.basisPrice > span > span.a-offscreen'
+    type: Text
+
